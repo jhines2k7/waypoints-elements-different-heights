@@ -1,0 +1,29 @@
+{
+  "name": "waypoints-elements-different-heights",
+  "version": "0.1.0",
+  "description": "Simple demonstration of using Waypoints to adjust to sticky elements with different heights",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jhines2k7/waypoints-elements-different-heights.git"
+  },
+  "keywords": [
+    "waypoints",
+    "jquery",
+    "different",
+    "heights"
+  ],
+  "author": "James Hines",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jhines2k7/waypoints-elements-different-heights/issues"
+  },
+  "homepage": "https://github.com/jhines2k7/waypoints-elements-different-heights#readme",
+  "dependencies": {
+    "jquery": "^2.1.4",
+    "waypoints": "^3.1.1"
+  }
+}
